@@ -48,6 +48,8 @@ By integrating **data extraction**, **exploratory analysis**, **machine learning
 
 ## 📌 Live Demo & Dashboard  
 🔗 **[View Tableau Dashboard](https://public.tableau.com/)** *(Replace with your actual Tableau Public link)*  
+![complete_dashboard](https://github.com/user-attachments/assets/9d02d14b-7a2a-401f-a22b-e7b552279b1d)
+
 📂 **[View Full Project Repository](https://github.com/sanketk77/Client-Attrition-Analytics)**  
 
 ---
