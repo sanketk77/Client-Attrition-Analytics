@@ -52,7 +52,8 @@ By integrating **data extraction**, **exploratory analysis**, **machine learning
 
 ---
 
-## 🗂 Project Workflow  
+## 🗂 Project Workflow
+
 ```mermaid
 graph TD
 A[Customer Data in DB] -->|SQL Queries| B[Data Extraction & Cleaning]
@@ -60,6 +61,5 @@ B --> C[Exploratory Data Analysis - Python]
 C --> D[Feature Engineering & Modeling]
 D --> E[Model Evaluation]
 E --> F[Tableau Dashboard for Insights]
-📷 Dashboard Preview
-(Replace with your actual dashboard image)
+
 
